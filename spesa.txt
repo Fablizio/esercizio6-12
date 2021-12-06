@@ -1,0 +1,6 @@
+
+prodotto: mela
+Quantità: 5
+
+prodotto: pera
+Quantità: 9
